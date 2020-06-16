@@ -1,2 +1,2 @@
-# sensor_de_presenca_e_wifi
+# sensor de presenca com Wifi
 Projeto de faculdade
